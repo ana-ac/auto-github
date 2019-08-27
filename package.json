@@ -1,0 +1,31 @@
+{
+  "name": "auto-github",
+  "version": "1.0.0",
+  "description": "Actions automatically launched on github scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-ac/auto-github.git"
+  },
+  "keywords": [
+    "nodejs",
+    "github",
+    "automatic",
+    "tasks"
+  ],
+  "author": "Ana Arriaga Coll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ana-ac/auto-github/issues"
+  },
+  "homepage": "https://github.com/ana-ac/auto-github#readme",
+  "dependencies": {
+    "dotenv-safe": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
